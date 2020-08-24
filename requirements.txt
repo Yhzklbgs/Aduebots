@@ -1,0 +1,10 @@
+akad
+requests
+requests-futures
+rsa
+PyQRCode
+hyper
+httpx
+httplib2
+python-axolotl-curve25519
+pycryptodome

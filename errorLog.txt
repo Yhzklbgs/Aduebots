@@ -1,0 +1,9 @@
+
+
+[Senin, 24 - 08 - 2020 | 10:00:38] name 'cmd' is not defined
+[Senin, 24 - 08 - 2020 | 10:19:22] name 'cmd' is not defined
+[Senin, 24 - 08 - 2020 | 10:20:49] 'setKey'
+[Senin, 24 - 08 - 2020 | 10:33:42] 'setKey'
+[Senin, 24 - 08 - 2020 | 10:33:47] 'setKey'
+[Senin, 24 - 08 - 2020 | 10:54:21] local variable 'to' referenced before assignment
+[Senin, 24 - 08 - 2020 | 11:05:22] name 'Owner' is not defined
